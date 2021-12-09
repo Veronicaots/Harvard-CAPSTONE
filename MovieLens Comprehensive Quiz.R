@@ -1,5 +1,5 @@
 ## Made Ots
-## Movie Recimmendation System
+## MovieLens Comprehensive Quiz
 ## HarvardX: PH125.9x - Capstone Project
 ## https://github.com/Veronicaots/Harvard-CAPSTONE
 
